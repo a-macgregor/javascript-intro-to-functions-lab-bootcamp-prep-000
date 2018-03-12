@@ -21,9 +21,10 @@ function sayHiToGrandma(string) {
   
   if(`${string}` === uppercase) {
     return "I can't hear you!"
-  } elif(`${string}` === lowercase) {
+  } else if(`${string}` === lowercase) {
     return "YES INDEED!"
   } else
+    return ""
       
     }
   }
