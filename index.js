@@ -24,7 +24,7 @@ function sayHiToGrandma(string) {
   } else if(`${string}` === lowercase) {
     return "YES INDEED!"
   } else
-    return ""
+    return "I love you, too."
       
     }
   }
